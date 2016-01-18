@@ -3,3 +3,11 @@ hammer
 apple
 banana
 hammer
+pineapple
+pineapple
+pineapple
+pineapple
+hammer
+hammer
+hammer
+hammer
